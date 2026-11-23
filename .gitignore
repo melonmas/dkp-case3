@@ -32,5 +32,5 @@ yarn-error.log
 /docs/*.local.json
 /impeccable-run-*.log
 /docs
-/.impeccable
+.impeccable
 AGENTS.md
