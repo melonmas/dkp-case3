@@ -2,6 +2,8 @@
 
 Aplikasi manajemen tugas berbasis Laravel 13 dan Livewire 4 dengan fitur pelacakan status, prioritas, soft delete (recycle bin), dan caching statistik dashboard.
 
+**Live Demo**: [https://dkp-case3-production.up.railway.app](https://dkp-case3-production.up.railway.app)
+
 ## Fitur
 
 - **Manajemen Tugas**: Buat, perbarui, dan hapus tugas dengan modal interaktif tanpa reload halaman.
