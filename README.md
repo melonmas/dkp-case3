@@ -24,8 +24,8 @@ Aplikasi manajemen tugas berbasis Laravel 13 dan Livewire 4 dengan fitur pelacak
 ### 1. Klon Repositori
 
 ```bash
-git clone <url-repo>
-cd dkpCase3
+git clone https://github.com/melonmas/dkp-case3.git
+cd dkp-case3
 ```
 
 ### 2. Setup Otomatis
