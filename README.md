@@ -110,4 +110,4 @@ composer run types:check
 - **Backend**: Laravel 13, PHP 8.3+
 - **Frontend / Reaktivitas**: Livewire 4, Livewire Flux, Tailwind CSS
 - **Testing**: Pest 5
-- **Database**: SQLite (default development)
+- **Database**: MySQL
